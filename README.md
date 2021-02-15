@@ -5,3 +5,4 @@ Credit til
 de_risk#2297
 Bjergaard#6465
 Jeg yder ingen support absolut på de her filer
+Denne version er fra tidlig januar så dette er ikke versionen fra da serveren lukkede
