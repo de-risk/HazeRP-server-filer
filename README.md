@@ -2,7 +2,7 @@
 Da folk sælger filerne vælger jeg at udgive dem.
 
 
-Download link, slettet fordi ikke folk forstår linje 17
+Download link, slettet fordi ikke folk forstår, at jeg ikke yder support
 
 
 Credits til 
